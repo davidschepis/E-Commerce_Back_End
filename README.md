@@ -19,6 +19,9 @@ https://github.com/davidschepis/E-Commerce_Back_End
 
 
 
+
+
+
  ## Example
  Output from Postman
 ![Screenshot](./images/screenshot1.png)
