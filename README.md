@@ -17,9 +17,13 @@ Allows a user to interact with a database of consumer products
  ## Links
 https://github.com/davidschepis/E-Commerce_Back_End
 
+Demonstration Video 1
 
+https://drive.google.com/file/d/170pEG6qu_BErHpMcLsCkRkujQ1StCwl8/view
 
+Demonstration Video 2
 
+https://drive.google.com/file/d/1Tsv5EBVVyw_xGCegStddMRAjd6L417kW/view
 
 
  ## Example
